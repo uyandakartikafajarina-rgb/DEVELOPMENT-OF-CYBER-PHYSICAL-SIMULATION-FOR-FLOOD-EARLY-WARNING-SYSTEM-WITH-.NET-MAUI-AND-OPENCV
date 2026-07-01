@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-CYBER-PHYSICAL-SIMULATION-FOR-FLOOD-EARLY-WARNING-SYSTEM-WITH-.NET-MAUI-AND-OPENCV
+Project ini merupakan implementasi sistem pemantauan banjir cerdas yang dirancang untuk mengatasi kerentanan sistemik pada stasiun pemantauan tradisional. Menggunakan arsitektur .NET MAUI, sistem ini mengimplementasikan dua lapisan keamanan: autentikasi kredensial dan verifikasi wajah berbasis Haar Cascade.
